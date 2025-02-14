@@ -1,0 +1,31 @@
+h1{
+	color: darkred;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 250%;
+	text-align: center;
+	font-family: st_valentin;
+	border-style: dotted;
+	border-color: darkred;
+}
+
+@font-face{
+	font-family: st_valentin;
+	src: url('Valentine Cute.ttf');
+}
+
+h2{
+font-family: st_valentin;
+}
+
+img{
+	width: 200px;
+	display: block;
+	margin: auto;
+}
+
+body {
+    background-color: rgb(242, 189, 220);
+}
+
+
